@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arshad-02
+- 👋 Hi, I’m Arshad
 - 👀 I’m interested in automation and bots.
-- 🌱 I’m currently learning web scraping.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on python projects...
 
 <hr>
