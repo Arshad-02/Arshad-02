@@ -16,10 +16,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-02&langs_count=8&theme=midnight-purple)
 
+<hr>
 
+<h3 align="left">Languages and Tools :</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://syntaxxx.com/wp-content/uploads/2014/08/html5-logo-600.jpg" alt="HTML5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<hr>
 
-
+### Hello fellow developer,
+- Welcome to my inventory, I am passionate python developer who loves solving practical problems of daily life. My discipline of study is automation.
+- I am currently learning web development after which I would implement the learnt skills in creating a Progressive Web App(PWA), which I deem to be the best of both worlds. 
 <!---
 Arshad-02/Arshad-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
