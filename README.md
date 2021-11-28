@@ -23,6 +23,12 @@
 
 <hr>
 
+<h3 align="left">Dev:</h3>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/arshad02)
+
+<hr>
+
 ### Hello fellow developer,
 - Welcome to my inventory, I am passionate python developer who loves solving practical problems of daily life. My discipline of study is automation.
 - I am currently learning web development after which I would implement the learnt skills in creating a Progressive Web App(PWA), which I deem to be the best of both worlds. 
