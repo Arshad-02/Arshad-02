@@ -27,6 +27,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/arshad02)
 
+[![@syed's Holopin board](https://holopin.io/api/user/board?user=syed)](https://holopin.io/@syed)
 <hr>
 
 ### Hello fellow developer,
