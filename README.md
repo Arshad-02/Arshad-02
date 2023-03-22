@@ -31,8 +31,8 @@
 <hr>
 
 ### Hello fellow developer,
-- Welcome to my inventory, I am passionate python developer who loves solving practical problems of daily life. My discipline of study is automation.
-- I am currently learning web development after which I would implement the learnt skills in creating a Progressive Web App(PWA), which I deem to be the best of both worlds. 
+- Welcome to my inventory, I am passionate flutter developer who loves solving practical problems of daily life. My discipline of study is automation.
+- I am currently learning flutter development.
 <!---
 Arshad-02/Arshad-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
