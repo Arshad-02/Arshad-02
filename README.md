@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arshad
-- 👀 I’m interested in automation and bots.
+- 👀 I’m interested in innovation in tech space.
 - 🌱 I’m currently learning flutter.
-- 💞️ I’m looking to collaborate on python and flutter projects..
+- 💞️ I’m looking to collaborate on flutter and python projects..
 
 <hr>
 
